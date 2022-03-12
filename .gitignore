@@ -40,3 +40,6 @@ tb/riscv-isa-sim/
 work-*/*
 install/
 xrun_results/
+.code/
+.cache/
+.idea/
